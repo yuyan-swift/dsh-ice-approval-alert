@@ -5,7 +5,6 @@
 <h1 align="center">冰冰冰 · 审批提醒</h1>
 
 <p align="center">
-  <a href="https://github.com/yuyan-swift/dsh-ice-approval-alert/actions/workflows/check.yml"><img alt="check" src="https://github.com/yuyan-swift/dsh-ice-approval-alert/actions/workflows/check.yml/badge.svg"></a>
   <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 </p>
 
@@ -134,8 +133,7 @@ dsh-ice-approval-alert/
 ├─ README.md
 ├─ LICENSE
 ├─ CHANGELOG.md
-├─ SECURITY.md
-└─ .github/workflows/check.yml
+└─ SECURITY.md
 ```
 
 ## License
