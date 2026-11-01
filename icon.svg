@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <linearGradient id="bg" x1="8" y1="4" x2="88" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#082f4c"/>
+      <stop offset=".55" stop-color="#06405f"/>
+      <stop offset="1" stop-color="#031d30"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="92" height="92" rx="24" fill="url(#bg)"/>
+  <path d="M48 5 55 19 70 12 63 27 78 34 63 40 70 55 55 48 48 63 42 48 27 55 34 40 19 34 34 27 27 12 42 19Z" fill="#5fd3ff" opacity=".13"/>
+  <g font-family="'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="36" text-anchor="middle" filter="url(#glow)">
+    <text x="21" y="57" transform="rotate(-20 21 45)">🧊</text>
+    <text x="48" y="51" transform="rotate(7 48 39)">🧊</text>
+    <text x="75" y="57" transform="rotate(164 75 45)">🧊</text>
+  </g>
+  <path d="M8 20l11 5M6 33l10 2M88 20l-11 5M90 33l-10 2" fill="none" stroke="#8ee8ff" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+  <text x="48" y="86" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="700" letter-spacing="2.6" fill="#e8fbff">BING!</text>
+  <g transform="translate(73 7)">
+    <rect width="18" height="11" rx="5.5" fill="#ff3e8a"/>
+    <text x="9" y="8" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="7.5" font-weight="700" fill="#fff">×3</text>
+  </g>
+</svg>
